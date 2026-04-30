@@ -20,10 +20,10 @@ Python 3.x (no external dependencies, uses only standard library)
 
 ```bash
 # Console report
-python phishing_triage.py suspicious_email.eml
+python.exe phishing_triage.py suspicious_email.eml
 
 # Console report + JSON export
-python phishing_triage.py suspicious_email.eml -o report.json
+python.exe phishing_triage.py suspicious_email.eml -o report.json
 ```
 
 ## Sample Output
